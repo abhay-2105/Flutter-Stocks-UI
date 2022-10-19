@@ -1,16 +1,9 @@
-# stock
+# STOCK UI created with FLUTTER
 
-A new Flutter project.
+## Screenshots of the app
 
-## Getting Started
+<img src="https://github.com/abhay-2105/Flutter-Stocks-UI/blob/master/ss/ss%20(2).jpg" height=450 width=220> <img src="https://github.com/abhay-2105/Flutter-Stocks-UI/blob/master/ss/ss%20(3).jpg" height=450 width=220> <img src="https://github.com/abhay-2105/Flutter-Stocks-UI/blob/master/ss/ss%20(4).jpg" height=450 width=220>
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/abhay-2105/Flutter-Stocks-UI/blob/master/ss/ss%20(5).jpg" height=450 width=220> <img src="https://github.com/abhay-2105/Flutter-Stocks-UI/blob/master/ss/ss%20(6).jpg" height=450 width=220> <img src="https://github.com/abhay-2105/Flutter-Stocks-UI/blob/master/ss/ss%20(7).jpg" height=450 width=220>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/abhay-2105/Flutter-Stocks-UI/blob/master/ss/ss%20(8).jpg" height=450 width=220> <img src="https://github.com/abhay-2105/Flutter-Stocks-UI/blob/master/ss/ss%20(9).jpg" height=450 width=220> <img src="https://github.com/abhay-2105/Flutter-Stocks-UI/blob/master/ss/ss%20(1).jpg" height=450 width=220>
