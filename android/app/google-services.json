@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541860843138",
+    "project_id": "stocks-d125e",
+    "storage_bucket": "stocks-d125e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541860843138:android:de8246b669907e5efe6e9b",
+        "android_client_info": {
+          "package_name": "com.example.stock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541860843138-1ice3k6j54gembhqqv2hsmlgsvo3gp3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC13h2T5RXF8EKIOwmlW5wSMqezFYuv9dU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541860843138-1ice3k6j54gembhqqv2hsmlgsvo3gp3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
